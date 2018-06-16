@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   John Boland	john.boland@gmail.com	@johnboland
 
 # THANKS
 
